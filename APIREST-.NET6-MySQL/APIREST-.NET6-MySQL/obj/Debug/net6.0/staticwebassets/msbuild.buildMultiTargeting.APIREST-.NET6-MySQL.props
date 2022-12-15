@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APIREST-.NET6-MySQL.props" />
+</Project>

@@ -1,0 +1,12 @@
+D:\DESARROLLADOR BAKEND-FRONTEND\.NET_C#\CRUD_Blazor_.NET6_web-API_EntityFramework_SQL-Server-Express\BlazorFullstackCrud\BlazorFullstackCrud\Shared\bin\Debug\net6.0\BlazorFullstackCrud.Shared.deps.json
+D:\DESARROLLADOR BAKEND-FRONTEND\.NET_C#\CRUD_Blazor_.NET6_web-API_EntityFramework_SQL-Server-Express\BlazorFullstackCrud\BlazorFullstackCrud\Shared\bin\Debug\net6.0\BlazorFullstackCrud.Shared.dll
+D:\DESARROLLADOR BAKEND-FRONTEND\.NET_C#\CRUD_Blazor_.NET6_web-API_EntityFramework_SQL-Server-Express\BlazorFullstackCrud\BlazorFullstackCrud\Shared\bin\Debug\net6.0\BlazorFullstackCrud.Shared.pdb
+D:\DESARROLLADOR BAKEND-FRONTEND\.NET_C#\CRUD_Blazor_.NET6_web-API_EntityFramework_SQL-Server-Express\BlazorFullstackCrud\BlazorFullstackCrud\Shared\obj\Debug\net6.0\BlazorFullstackCrud.Shared.csproj.AssemblyReference.cache
+D:\DESARROLLADOR BAKEND-FRONTEND\.NET_C#\CRUD_Blazor_.NET6_web-API_EntityFramework_SQL-Server-Express\BlazorFullstackCrud\BlazorFullstackCrud\Shared\obj\Debug\net6.0\BlazorFullstackCrud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESARROLLADOR BAKEND-FRONTEND\.NET_C#\CRUD_Blazor_.NET6_web-API_EntityFramework_SQL-Server-Express\BlazorFullstackCrud\BlazorFullstackCrud\Shared\obj\Debug\net6.0\BlazorFullstackCrud.Shared.AssemblyInfoInputs.cache
+D:\DESARROLLADOR BAKEND-FRONTEND\.NET_C#\CRUD_Blazor_.NET6_web-API_EntityFramework_SQL-Server-Express\BlazorFullstackCrud\BlazorFullstackCrud\Shared\obj\Debug\net6.0\BlazorFullstackCrud.Shared.AssemblyInfo.cs
+D:\DESARROLLADOR BAKEND-FRONTEND\.NET_C#\CRUD_Blazor_.NET6_web-API_EntityFramework_SQL-Server-Express\BlazorFullstackCrud\BlazorFullstackCrud\Shared\obj\Debug\net6.0\BlazorFullstackCrud.Shared.csproj.CoreCompileInputs.cache
+D:\DESARROLLADOR BAKEND-FRONTEND\.NET_C#\CRUD_Blazor_.NET6_web-API_EntityFramework_SQL-Server-Express\BlazorFullstackCrud\BlazorFullstackCrud\Shared\obj\Debug\net6.0\BlazorFullstackCrud.Shared.dll
+D:\DESARROLLADOR BAKEND-FRONTEND\.NET_C#\CRUD_Blazor_.NET6_web-API_EntityFramework_SQL-Server-Express\BlazorFullstackCrud\BlazorFullstackCrud\Shared\obj\Debug\net6.0\refint\BlazorFullstackCrud.Shared.dll
+D:\DESARROLLADOR BAKEND-FRONTEND\.NET_C#\CRUD_Blazor_.NET6_web-API_EntityFramework_SQL-Server-Express\BlazorFullstackCrud\BlazorFullstackCrud\Shared\obj\Debug\net6.0\BlazorFullstackCrud.Shared.pdb
+D:\DESARROLLADOR BAKEND-FRONTEND\.NET_C#\CRUD_Blazor_.NET6_web-API_EntityFramework_SQL-Server-Express\BlazorFullstackCrud\BlazorFullstackCrud\Shared\obj\Debug\net6.0\ref\BlazorFullstackCrud.Shared.dll

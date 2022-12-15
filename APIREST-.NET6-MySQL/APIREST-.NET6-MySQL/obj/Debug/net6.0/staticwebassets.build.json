@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wOowmZcvTsEOKStKjfH4oNc0YY+ky8++Qq2JR6HVpE4=",
+  "Source": "APIREST-.NET6-MySQL",
+  "BasePath": "_content/APIREST-.NET6-MySQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

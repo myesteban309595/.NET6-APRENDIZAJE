@@ -1,0 +1,32 @@
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\bin\Debug\net6.0\appsettings.Development.json
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\bin\Debug\net6.0\appsettings.json
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\bin\Debug\net6.0\APIREST-.NET core 6.exe
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\bin\Debug\net6.0\APIREST-.NET core 6.deps.json
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\bin\Debug\net6.0\APIREST-.NET core 6.runtimeconfig.json
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\bin\Debug\net6.0\APIREST-.NET core 6.dll
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\bin\Debug\net6.0\APIREST-.NET core 6.pdb
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\APIREST-.NET core 6.csproj.AssemblyReference.cache
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\APIREST-.NET core 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\APIREST-.NET core 6.AssemblyInfoInputs.cache
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\APIREST-.NET core 6.AssemblyInfo.cs
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\APIREST-.NET core 6.csproj.CoreCompileInputs.cache
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\APIREST-.NET core 6.MvcApplicationPartsAssemblyInfo.cs
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\APIREST-.NET core 6.MvcApplicationPartsAssemblyInfo.cache
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\staticwebassets\msbuild.APIREST-.NET core 6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\staticwebassets\msbuild.build.APIREST-.NET core 6.props
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIREST-.NET core 6.props
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIREST-.NET core 6.props
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\staticwebassets.build.json
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\staticwebassets.development.json
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\scopedcss\bundle\APIREST-.NET core 6.styles.css
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\APIREST-.NET core 6.csproj.CopyComplete
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\APIREST-.NET core 6.dll
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\refint\APIREST-.NET core 6.dll
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\APIREST-.NET core 6.pdb
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\APIREST-.NET core 6.genruntimeconfig.cache
+D:\DESARROLLADOR BAKEND-FRONTEND\APIREST-.NET core 6\APIREST-.NET core 6\obj\Debug\net6.0\ref\APIREST-.NET core 6.dll

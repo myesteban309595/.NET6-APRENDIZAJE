@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zLg+BkCbLmukFsAUmxVABX32LKSYCu7hVu7LxUbPVSs=",
+  "Source": "NetCore6CrudAutenticacionSqlServer",
+  "BasePath": "_content/NetCore6CrudAutenticacionSqlServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
